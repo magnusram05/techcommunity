@@ -6,7 +6,8 @@ General / Technical discussion community
 
 | Topic | Owner | Date & Time | Details | Topic skill level |
 | ------|------|------|------|------|
-| TA - Stock Market | SRK | 19-Jan-2025 | SRK will share his knowledge on Stock market | Beginner | 
+| TA - Investing | SRK | 19-Jan-2025 | SRK will share his knowledge on investing | Beginner | 
+| TA - Investing | SK | 26-Jan-2025 | SK will share his knowledge on stock analysis | Beginner | 
 
 ## Suggested Topics
 
